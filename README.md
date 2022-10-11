@@ -17,3 +17,5 @@
   <li>Email: amazaryan2018@yandex.ru</li>
 </ul>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=StellRay666s&theme=tokyonight_duo&border_radius=5&locale=ru)](https://git.io/streak-stats)
+
