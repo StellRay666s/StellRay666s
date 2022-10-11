@@ -8,4 +8,9 @@
 <li>React-router-dom</li>
 <li>Vue.js</li>
 </ul>
+<h2>Contacts</h2>
+<ul>
+  <li>Telegram: https://t.me/AmazaryanDanila</li>
+  <li>Email: amazaryan2018@yandex.ru</li>
+</ul>
 
