@@ -5,6 +5,7 @@
 <li>JavaScripts</li>
 <li>HTML</li>
 <li>React.js</li>
+  <li>Redux(Redux=ToolKit)</li>
 <li>SCSS(CSS-modules)</li>
 <li>Axios</li>
 <li>React-router-dom</li>
