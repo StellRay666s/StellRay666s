@@ -4,6 +4,7 @@
 <ul>
 <li>JavaScripts</li>
 <li>HTML</li>
+  <h2>Frontend</h2>
 <li>React.js</li>
   <li>Redux(ReduxToolKit)</li>
 <li>SCSS(CSS-modules)</li>
