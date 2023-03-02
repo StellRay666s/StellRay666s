@@ -11,6 +11,10 @@
 <li>Axios</li>
 <li>React-router-dom</li>
 <li>Vue.js</li>
+  <h2>Backend</h2>
+  <li>Express.js</li>
+  <li>Sequelize</li>
+  <li>Postgres</li>
 </ul>
 <h2>Contacts</h2>
 <ul>
